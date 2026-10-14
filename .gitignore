@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Personal data: never commit resumes, contact lists or extracted results
+*.pdf
+*.doc
+*.docx
+*.rtf
+*.odt
+*.xlsx
+*.xls
+*.csv
+*_log.txt
+*.rar
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
